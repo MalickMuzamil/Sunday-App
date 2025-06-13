@@ -1,4 +1,4 @@
-<h1 align="center">🏨 SundayAPP — Bootstrap + HTML/CSS Project</h1>
+<h1 align="center">🏨 SundayAPP (Bootstrap + HTML/CSS Project)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20With-Bootstrap%20%2B%20HTML%2FCSS-purple?style=for-the-badge" />
@@ -13,7 +13,7 @@
 🔹 Fully responsive layout with Bootstrap 5  
 🎯 Clean and modern hotel website design  
 🧩 Modular HTML structure for easy readability  
-💡 Built using only HTML, CSS, and Bootstrap — no JS frameworks  
+💡 Built using only HTML, CSS, and Bootstra no JS frameworks  
 📱 Mobile-first approach  
 📷 Includes sections like room listings, booking form (UI only), about us, and contact
 
@@ -21,15 +21,15 @@
 
 ## 🛠️ Getting Started
 
-1. Clone this repository:
-git clone https://github.com/MalickMuzamil/Sunday-App
+Clone this repository:
+1- git clone https://github.com/MalickMuzamil/Sunday-App
 
 ---
 
 ## Open index.html in your browser:
-cd Sunday-APP
+1- cd Sunday-APP
 
-That's it! No build steps needed.
+**That's it! No build steps needed.**
 
 ## 📁 Project Structure
  Sunday-APP/
