@@ -50,7 +50,7 @@ Clone this repository:
 - Layout structuring
 - Form UI and navbar
 
-## This project helped me understand how professional UI designs are structured using Bootstrap.
+**This project helped me understand how professional UI designs are structured using Bootstrap.**
 
 ## 🧑‍💻 Author
 
