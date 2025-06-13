@@ -42,6 +42,7 @@ Clone this repository:
  ├── /images/             # Image assets (hotel, rooms, etc.)
  └── README.md
 
+---
 
 ## 📚 Learnings & Experience
 ✅ This was my first Bootstrap project where I learned a lot about:
@@ -51,6 +52,8 @@ Clone this repository:
 - Form UI and navbar
 
 **This project helped me understand how professional UI designs are structured using Bootstrap.**
+
+---
 
 ## 🧑‍💻 Author
 
