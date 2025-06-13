@@ -32,12 +32,12 @@ cd Sunday-APP
 That's it! No build steps needed.
 
 ## 📁 Project Structure
-## Sunday-APP/
-## ├── index.html           # Main homepage
-## ├── /css/                # Custom CSS styles
-## │   └── style.css
-## ├── /images/             # Image assets (hotel, rooms, etc.)
-## └── README.md
+ Sunday-APP/
+ ├── index.html           # Main homepage
+ ├── /css/                # Custom CSS styles
+ │   └── style.css
+ ├── /images/             # Image assets (hotel, rooms, etc.)
+ └── README.md
 
 
 ## 📚 Learnings & Experience
