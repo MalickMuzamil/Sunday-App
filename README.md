@@ -22,7 +22,7 @@
 ## 🛠️ Getting Started
 
 1. Clone this repository:
-git clone https://github.com/your-username/hotelui-bootstrap.git
+git clone https://github.com/MalickMuzamil/Sunday-App
 
 ---
 
@@ -50,6 +50,8 @@ Sunday-APP/
   **This project helped me understand how professional UI designs are structured using Bootstrap.**
 
 🧑‍💻 Author
+
 Made with ❤️ by MalickMuzamil
+
 📫 malikmuzamil92110@gmail.com
 🔗 LinkedIn 📫 https://www.linkedin.com/in/malik-muzamil/
