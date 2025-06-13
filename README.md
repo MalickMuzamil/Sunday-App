@@ -25,12 +25,14 @@ Clone this repository:
 
 1- git clone https://github.com/MalickMuzamil/Sunday-App
 
----
-
 ## Open index.html in your browser:
 1- cd Sunday-APP
 
 **That's it! No build steps needed.**
+
+
+---
+
 
 ## 📁 Project Structure
  Sunday-APP/
