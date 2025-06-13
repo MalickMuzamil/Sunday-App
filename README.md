@@ -32,12 +32,12 @@ cd Sunday-APP
 That's it! No build steps needed.
 
 ## 📁 Project Structure
-Sunday-APP/
-├── index.html           # Main homepage
-├── /css/                # Custom CSS styles
-│   └── style.css
-├── /images/             # Image assets (hotel, rooms, etc.)
-└── README.md
+## Sunday-APP/
+## ├── index.html           # Main homepage
+## ├── /css/                # Custom CSS styles
+## │   └── style.css
+## ├── /images/             # Image assets (hotel, rooms, etc.)
+## └── README.md
 
 
 ## 📚 Learnings & Experience
@@ -47,9 +47,9 @@ Sunday-APP/
 - Layout structuring
 - Form UI and navbar
 
-  ## **This project helped me understand how professional UI designs are structured using Bootstrap.**
+## This project helped me understand how professional UI designs are structured using Bootstrap.
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Made with ❤️ by MalickMuzamil
 
