@@ -59,5 +59,5 @@ Clone this repository:
 
 Made with ❤️ by MalickMuzamil
 
-📫 malikmuzamil92110@gmail.com
-🔗 LinkedIn 📫 https://www.linkedin.com/in/malik-muzamil/
+<!-- 📧 Email: malikmuzamil92110@example.com | 💼 LinkedIn: linkedin.com/in/malik-muzamil -->
+
